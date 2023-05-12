@@ -1,2 +1,2 @@
 # pokedex
-Plain pokedex viewer with asynchronous loading from pokeAPI
+Plain pokedex viewer made with jquery and with asynchronous ajax loading from pokeAPI
